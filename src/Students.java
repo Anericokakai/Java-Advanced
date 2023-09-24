@@ -44,4 +44,21 @@ public class Students {
     String name;
     String adress;
     int age;
+
+
+//    !OVERRIDING  EQUALS OF AN OBJECT
+
+    @Override
+    public  boolean equals (Object obj) {
+//        COMPARE THE FOREIGN OBJECT TO THE CURRENT OBJECT THIS
+        if (this == obj)
+            return true;
+
+        if (obj == null || obj.getClass() != this.getClass())
+            return false;
+//        TYPE CAST THE OBJECT INTO STUDENT OBJECT
+        Students students=(Students) obj;
+        return students.age==this.age;
+
+    }
 }
