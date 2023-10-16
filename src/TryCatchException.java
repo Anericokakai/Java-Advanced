@@ -12,9 +12,9 @@ public  class TryCatchException {
             list.add(20);
 //                    ACCESS THE SECOND ELEMENT TO THE LIST WHICH DOES NOT EXIST
             System.out.println("we now enter the catch block since our code has an error");
-            Integer a=list.get(1);
+            Integer a=list.get(0);
             System.out.println("accessing the first element"+a);
-        }catch (IndexOutOfBoundsException error){
+        }catch (ArrayIndexOutOfBoundsException error){
             System.err.println("IndexOutOfBoundsException error:"+error);
 
     }finally {
