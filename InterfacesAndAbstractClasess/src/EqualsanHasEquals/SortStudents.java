@@ -1,3 +1,5 @@
+package EqualsanHasEquals;
+
 import java.util.Objects;
 
 public class SortStudents implements  Comparable<SortStudents> {

@@ -1,3 +1,5 @@
+package EqualsanHasEquals;
+
 public class MyCustomException  extends  Exception{
 
      MyCustomException() {

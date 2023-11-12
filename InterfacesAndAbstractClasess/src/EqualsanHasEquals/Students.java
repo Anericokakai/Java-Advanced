@@ -1,3 +1,5 @@
+package EqualsanHasEquals;
+
 public class Students {
     public Students(String name, String adress, int age) {
         this.name = name;

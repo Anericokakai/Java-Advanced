@@ -1,4 +1,4 @@
-
+package EqualsanHasEquals;
 // ################################################
 // THE COMPARATOR INTERFACE IS USED TO  SORT  THE SAME OBJECT BASED ON DIFFERENT LOGIC
 // UNLIKE THE COMPARABLE WHERE WE ONLY HAVE ONE LOGIC OF SORT

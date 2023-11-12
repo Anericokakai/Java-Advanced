@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7006987c-9c0a-46e2-bc36-082b6c33998a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/InterfacesAndAbstractClasess/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfacesAndAbstractClasess/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfacesAndAbstractClasess/src/Abstraction/Abstract.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfacesAndAbstractClasess/src/Abstraction/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfacesAndAbstractClasess/src/Abstraction/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InterfacesAndAbstractClasess/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InterfacesAndAbstractClasess/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InterfacesAndAbstractClasess/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependecyInjections/src/Injections/Exams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependecyInjections/src/Injections/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AgeComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckedExceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparableSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DependecyInjections/ExamCHeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DependecyInjections/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EqualsAndHashCodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyCustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Students.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TryCatchException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shoes.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Y4OuB6h2Y6ug4CblAg1RrPPVjE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/rico/projects/java_master/Java-Advanced",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java-Advanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java-Advanced" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootAnnotationsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringBootAnnotations" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ricodev.springbootannotations.SpringBootAnnotationsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7006987c-9c0a-46e2-bc36-082b6c33998a" name="Changes" comment="" />
+      <created>1699781606310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699781606310</updated>
+      <workItem from="1699781607706" duration="382000" />
+      <workItem from="1699785413576" duration="76000" />
+      <workItem from="1699785523871" duration="258000" />
+      <workItem from="1699786077746" duration="321000" />
+      <workItem from="1699794369642" duration="579000" />
+      <workItem from="1699794971194" duration="39000" />
+      <workItem from="1699795028884" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

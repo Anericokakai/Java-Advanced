@@ -1,3 +1,5 @@
+package EqualsanHasEquals;
+
 public class EqualsAndHashCodes {
     public static void main(String[] args) {
 
