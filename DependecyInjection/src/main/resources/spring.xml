@@ -6,7 +6,13 @@
 
 
 <bean id="student" class="org.ricodev.Student">
-<property name="name" value="anerico kakai"></property>
+
+<constructor-arg  name="name" value="anerico" />
+    <constructor-arg name="regNo" value="c026-01-0969"/>
 </bean>
+    <bean id="rico" class="org.ricodev.Student">
+        <constructor-arg name="name" value="Broo"/>
+        <constructor-arg name="regNo" value="c026-01-2333"/>
+    </bean>
 
 </beans>

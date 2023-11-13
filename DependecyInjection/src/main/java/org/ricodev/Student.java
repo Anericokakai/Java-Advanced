@@ -1,16 +1,18 @@
 package org.ricodev;
 
 public class Student {
-  private   String  name;
-    public  void  display(){
-        System.out.println("STUDENT NAME IS "+ this.name);
-    }
+    private String name;
+    private String regNo;
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
+    public Student(String name, String regNo) {
         this.name = name;
+        this.regNo = regNo;
     }
+
+
+    public void display() {
+        System.out.println("STUDENT NAME : " + this.name + "\n STUDENT REG NO : " + this.regNo);
+    }
+
+
 }

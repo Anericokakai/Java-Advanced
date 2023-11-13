@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7006987c-9c0a-46e2-bc36-082b6c33998a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringiOC/src/main/java/org/ioc/ConstructorInjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringiOC/src/main/java/org/ioc/ConstructorInjection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringiOC/src/main/java/org/ioc/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringiOC/src/main/java/org/ioc/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependecyInjection/src/main/java/org/ricodev/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependecyInjection/src/main/java/org/ricodev/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependecyInjection/src/main/java/org/ricodev/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependecyInjection/src/main/java/org/ricodev/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependecyInjection/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DependecyInjection/src/main/resources/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +128,7 @@
       <workItem from="1699794971194" duration="39000" />
       <workItem from="1699795028884" duration="22000" />
       <workItem from="1699862904126" duration="6728000" />
-      <workItem from="1699873084838" duration="320000" />
+      <workItem from="1699873084838" duration="3060000" />
     </task>
     <servers />
   </component>

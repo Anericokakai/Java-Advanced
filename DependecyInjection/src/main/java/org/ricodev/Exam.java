@@ -8,11 +8,12 @@ public class Exam {
 
     public static void main(String[] args) {
 
-        ApplicationContext context= new ClassPathXmlApplicationContext("spring.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
 
-      Student student=  context.getBean(Student.class);
+        Student student = context.getBean("rico",Student.class);
 
-      student.display();
+        student.display();
+
 
     }
 
